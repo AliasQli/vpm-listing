@@ -1,26 +1,19 @@
 {
     "name":"AliasQli's Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://alias.qliphoth.tech/vrc-package-listing/index.json",
+    "id":"tech.qliphoth.vpm",
+    "url":"https://alias.qliphoth.tech/vpm-listing/index.json",
     "author":{
         "email":"aliasqli@qq.com",
         "name":"AliasQli"
     },
     "description":"AliasQli's listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/AliasQli/vrc-package-listing",
+        "url":"http://github.com/AliasQli/vpm-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "AliasQli/VRCOCG"
     ],
-    "packages":[
-        {
-            "name":"tech.qliphoth.vrcocg",
-            "releases":[
-                "https://github.com/AliasQli/VRCOCG/releases/download/0.1.0/tech.qliphoth.vrcocg-0.1.0.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
